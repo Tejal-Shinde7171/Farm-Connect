@@ -23,7 +23,7 @@
    ### pip install -r requirements.txt
    ### - And finally run the project with
    ###  python app.py
-  # Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
+  ### Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
 
 # Further Improvements 📈
   ## This was my first big project so there are lot of things to improve upon
