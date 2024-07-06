@@ -35,7 +35,7 @@
 # Contact 📞
 
 #### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn]
-### linkedin.com/in/tejal-shinde-51550b2b6
+###[ linkedin.com/in/tejal-shinde-51550b2b6](https://www.linkedin.com/in/tejal-shinde-51550b2b6/)
 
 
 
